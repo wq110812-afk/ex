@@ -1,3 +1,0 @@
-/home/wq/成绩统计_cmake/build/CMakeFiles/score.dir
-/home/wq/成绩统计_cmake/build/CMakeFiles/edit_cache.dir
-/home/wq/成绩统计_cmake/build/CMakeFiles/rebuild_cache.dir
