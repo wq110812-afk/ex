@@ -4,7 +4,7 @@
 ## 编译与运行（CMake）
 
 ```bash
-cd 成绩统计_cmake
+cd ex
 cmake -S . -B build
 cmake --build build
 ./build/score
@@ -13,7 +13,7 @@ cmake --build build
 ## 目录结构
 
 ```
-成绩统计_cmake/
+ex/
 ├── CMakeLists.txt
 ├── include/
 │   └── Student.hpp   # Student 类声明（name_、score_ 私有，接口公有）
