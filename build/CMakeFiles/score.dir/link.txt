@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/score.dir/src/main.cpp.o CMakeFiles/score.dir/src/Student.cpp.o -o score 
