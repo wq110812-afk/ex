@@ -1,6 +1,7 @@
 #include "Student.hpp"
 #include <iostream>
 #include <vector>
+
 int main() {
     int n = 0;
     std::cout << "请输入学生人数 n：";
